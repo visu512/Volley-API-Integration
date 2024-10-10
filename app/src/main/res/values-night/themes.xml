@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.APIIntegrationVolley" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#3498db</item>
+        <item name="colorPrimaryDark">#3498db</item>
+
+    </style>
+
+    <style name="Theme.APIIntegrationVolley" parent="Base.Theme.APIIntegrationVolley" />
+</resources>
